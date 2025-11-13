@@ -66,12 +66,15 @@ In Microsoft SQL Server, the tables now look like this (+migrations):
  <img width="997" height="254" alt="image" src="https://github.com/user-attachments/assets/bcf27d8f-951b-4fdb-8e0e-5d14d751b3bf" />
 
 Migration table:
- <img width="604" height="216" alt="image" src="https://github.com/user-attachments/assets/4e75d3ac-fff3-4727-8fa9-24a9b209ddc7" />
+ <img width="604" height="216" alt="image" src="https://github.com/user-attachments/assets/0048d75d-5197-4eb3-bd82-109720920d15" />
+
 
 
 Actual tables with content
- <img width="992" height="398" alt="image" src="https://github.com/user-attachments/assets/520a76c0-b959-46cc-8728-00c487219ee0" />
+ <img width="604" height="242" alt="image" src="https://github.com/user-attachments/assets/b680fdbd-1b2f-4761-9427-3c8058347c69" />
+
 
 Output:
- <img width="992" height="225" alt="image" src="https://github.com/user-attachments/assets/125e8061-d8a2-4ceb-bf29-070eff10e4a0" />
+ <img width="566" height="128" alt="image" src="https://github.com/user-attachments/assets/c444cb03-963d-4239-9569-ffdbbaa84b06" />
+
 
